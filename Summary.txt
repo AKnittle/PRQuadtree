@@ -1,0 +1,5 @@
+Seed value for this test: 3474301953993290036
+ Completed test of quadtree initialization.
+ Completed test of quadtree insertion.
+ Completed test of quadtree deletion.
+ Completed 3 tests.
